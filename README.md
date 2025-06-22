@@ -1,1 +1,1 @@
-# Random-Quote-Generator
+This a random quote generator. I used HTML,CSS,Javascript to build this.

@@ -1,0 +1,44 @@
+.qt_gen{
+    background-image: url(background.webp);
+    height:500px;
+    padding-top: 30px;  /*to create space between the border and the title*/
+    
+}
+
+
+.tlt{ /*title*/
+    border: 2px solid white;
+    width:250px;
+    margin:0 auto;
+    background-color: black;
+    color:white;
+    border-radius: 5px;
+}
+    
+
+.qt_box{   /*quote box*/
+    background-color: bisque;
+    width:700px;
+    height:300px;
+    margin:0 auto;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+
+.qt,.nm,.nw_qt{ /*creating upper space between elements inside the box*/
+    padding-top: 30px;
+}
+
+.qt{ /*quote*/
+    font-size: 1.5rem;
+}
+
+.nm{  /*name of the author*/
+    color:red;
+}
+
+.nw_qt button{  /*button*/
+    background-color: black;
+    color:white;
+    border-radius: 5px;
+}
